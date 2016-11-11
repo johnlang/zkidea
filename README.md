@@ -1,3 +1,6 @@
+# this fork
+This fork is made with intention to re-write all the code and maybe (maybe!) add some new features
+
 # zkidea
 ZK IntelliJ IDEA Plugin
 
